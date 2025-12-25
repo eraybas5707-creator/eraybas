@@ -2,6 +2,7 @@ n# eraybas
 <h1 align="center">Merhaba benim adım Eray</h1>
 <h3 align="center">Işık Üniversitesinde Bilişim Güvenliği Teknolojileri okuyorum</h3>
 
+-Denizbank Genel Müdürlük
 - İntertech **Stajyer**
 
 <h3 align="left">Benimle iletişime geç:</h3>
