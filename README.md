@@ -1,10 +1,10 @@
-# eraybas
+n# eraybas
 <h1 align="center">Merhaba benim adım Eray</h1>
 <h3 align="center">Işık Üniversitesinde Bilişim Güvenliği Teknolojileri okuyorum</h3>
 
 - İntertech **Stajyer**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Benimle iletişime geç:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/eray-baş-110102365" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/eray-baş-110102365" height="30" width="40" /></a>
 </p>
